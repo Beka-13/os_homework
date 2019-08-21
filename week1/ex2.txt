@@ -1,0 +1,500 @@
+   64  java Main
+   65  javac Main.java
+   66  java Main
+   67  javac Main.java
+   68  java Main
+   69  javac Main.java
+   70  java Main
+   71  javac Main.java
+   72  java Main
+   73  javac Main.java
+   74  java Main
+   75  java Main
+   76  java Main
+   77  javac Main.java
+   78  javac Main.java
+   79  javac Main.java
+   80  java Main
+   81  javac Main.java
+   82  java Main
+   83  java Main
+   84  javac Main.java
+   85  java Main
+   86  javac Main.java
+   87  java Main
+   88  javac Main.java
+   89  java Main
+   90  javac Main.java
+   91  javac Main.java
+   92  javac Main.java
+   93  javac Main.java
+   94  javac Main.java
+   95  javac Main.java
+   96  javac Main.java
+   97  javac Main.java
+   98  java Main
+   99  javac Main.java
+  100  java Main
+  101  javac Main.java
+  102  java Main
+  103  cd /Users/Beka/Desktop/
+  104  javac Seka.java
+  105  javac Seka.java
+  106  javac Seka.java
+  107  javac Seka.java
+  108  javac Seka.java
+  109  java Seka
+  110  javac Seka.java
+  111  java Seka
+  112  javac Seka.java
+  113  java Seka
+  114  javac Seka.java
+  115  java Seka
+  116  java Seka
+  117  javac Seka.java
+  118  java Seka
+  119  javac Seka.java
+  120  java Seka
+  121  javac Seka.java
+  122  java Seka
+  123  javac Seka.java
+  124  java Seka
+  125  javac Seka.java
+  126  java Seka
+  127  javac Seka.java
+  128  java Seka
+  129  javac Seka.java
+  130  java Seka
+  131  javac Seka.java
+  132  java Seka
+  133  javac Seka.java
+  134  javac Seka.java
+  135  java Seka
+  136  javac Seka.java
+  137  java Seka
+  138  javac Seka.java
+  139  java Seka
+  140  javac Seka.java
+  141  java Seka
+  142  javac Seka.java
+  143  java Seka
+  144  javac Seka.java
+  145  java Seka
+  146  javac Seka.java
+  147  java Seka
+  148  javac Seka.java
+  149  java Seka
+  150  javac Seka.java
+  151  java Seka
+  152  javac Seka.java
+  153  java Seka
+  154  cd /Users/Beka/Desktop/
+  155  gcc -o check check.c
+  156  cd /Users/Beka/Desktop/
+  157  gcc -o check check.c
+  158  gcc -o check check.c
+  159  ./check input
+  160  gcc -o check check.c
+  161  ./check input
+  162  gcc -o check check.c
+  163  ./check input
+  164  gcc -o check check.c
+  165  ./check input
+  166  gcc -o check check.c
+  167  gcc -o check check.c
+  168  ./check input
+  169  gcc -o check check.c
+  170  ./check input
+  171  gcc -o check check.c
+  172  ./check input
+  173  gcc -o check check.c
+  174  ./check input
+  175  gcc -o check check.c
+  176  ./check input
+  177  gcc -o check check.c
+  178  gcc -o check check.c
+  179  ./check input
+  180  ./check input2
+  181  ./check input2
+  182  gcc -o check check.c
+  183  ./check input2
+  184  cd /Users/Beka/Desktop/
+  185  gcc -o ex2 ex2.c
+  186  gcc -o ex2 ex2.c
+  187  gcc -o ex2 ex2.c
+  188  ./ex2
+  189  gcc -o test tes.c
+  190  gcc -o test test.c
+  191  ./ test text1 tex
+  192  ./test text1 text2
+  193  gcc -o ex4 ex4.c
+  194  gcc -o ex4 ex4.c
+  195  ./ex4 text1
+  196  gcc -o ex4 ex4.c
+  197  ./ex4 text1
+  198  gcc -o ex4 ex4.c
+  199  ./ex4 text1
+  200  gcc -o ex4 ex4.c
+  201  ./ex4 text1
+  202  gcc -o ex4 ex4.c
+  203  ./ex4 text1
+  204  gcc -o ex4 ex4.c
+  205  cd /Users/Beka/Desktop/
+  206  javac Kotak.java
+  207  javac Kotak.java
+  208  java Kotak
+  209  pip install Pillow
+  210  sudo pip install Pillow
+  211  pip install tensorflow
+  212  python
+  213  python3
+  214  python
+  215  pip3 install bottle
+  216  python3
+  217  su root
+  218  su root
+  219  su root
+  220  su root
+  221  e suka, ahuel?
+  222  sudo root
+  223  su root
+  224  sudo root
+  225  su root
+  226  suka
+  227  aherl
+  228  cd usr
+  229  cd /
+  230  ls
+  231  cd usr
+  232  ls
+  233  cd bin
+  234  ls
+  235  exit()
+  236  cd Users
+  237  cd /Users/
+  238  cd /Users/Beka/Desktop/
+  239  javac Main.java
+  240  javac MAIN.java
+  241  java MAIN
+  242  javac MAIN.java
+  243  javac MAIN.java
+  244  java MAIN
+  245  java MAIN
+  246  java MAIN
+  247  java MAIN
+  248  java MAIN
+  249  java MAIN
+  250  java MAIN
+  251  /Users/Beka/Desktop/makefile/vehicle ; exit;
+  252  /Users/Beka/Desktop/makefile/vehicle ; exit;
+  253  /Users/Beka/Desktop/qaz ; exit;
+  254  /Users/Beka/Desktop/qaz ; exit;
+  255  /Users/Beka/Desktop/qaz ; exit;
+  256  /Users/Beka/Desktop/sh ; exit;
+  257  /Users/Beka/Desktop/sh ; exit;
+  258  /Users/Beka/Desktop/qaz ; exit;
+  259  cd /Users/Beka/Desktop/I2P_lab_11/
+  260  gcc threads.c -lpthread
+  261  ./a.out
+  262  ./a.out
+  263  ./a.out
+  264  ./a.out
+  265  ./a.exe
+  266  ./a.out
+  267  gcc threads.c -lpthread
+  268  ./a.out
+  269  ./a.out
+  270  ./a.out
+  271  ./a.out
+  272  gcc threads.c -lpthread
+  273  ./a.out
+  274  ./a.out
+  275  ./a.out
+  276  gcc threads.c -lpthread
+  277  ./a.out
+  278  ./a.out
+  279  gcc threads.c -lpthread
+  280  ./a.out
+  281  ./a.out
+  282  ./a.out
+  283  ./a.out
+  284  gcc threads.c -lpthread
+  285  ./a.out
+  286  ./a.out
+  287  gcc threads.c -lpthread
+  288  ./a.out
+  289  ./a.out
+  290  gcc threads.c -lpthread
+  291  ./a.out
+  292  ./a.out
+  293  ./a.out
+  294  ./a.out
+  295  /Users/Beka/Desktop/I2P_lab_11/threads ; exit;
+  296  /Users/Beka/Desktop/I2P_lab_11/threads ; exit;
+  297  /Users/Beka/Desktop/I2P_lab_11/threads ; exit;
+  298  cd /Users/Beka/Desktop/I2P_lab_11/
+  299  gcc -o threads threads.c
+  300  gcc -o threads threads.c
+  301  ./threads
+  302  gcc -o threads threads.c
+  303  ./threads
+  304  gcc -o threads threads.c
+  305  ./threads
+  306  gcc -o threads threads.c
+  307  ./threads
+  308  gcc -o threads threads.c
+  309  ./threads
+  310  gcc -o threads threads.c
+  311  ./threads
+  312  gcc -o threads threads.c
+  313  ./threads
+  314  /Users/Beka/Desktop/ass2/BekzhanTalgatOutput ; exit;
+  315  cd /Users/Beka/Desktop/ass2/
+  316  gcc -o BekzhanTalgatOutput BekzhanTalgatOutput.c
+  317  ./BekzhanTalgatOutput
+  318  gcc -o BekzhanTalgatOutput BekzhanTalgatOutput.c
+  319  ./BekzhanTalgatOutput
+  320  gcc -o BekzhanTalgatOutput BekzhanTalgatOutput.c
+  321  ./BekzhanTalgatOutput
+  322  gcc -o BekzhanTalgatOutput BekzhanTalgatOutput.c
+  323  ./BekzhanTalgatOutput
+  324  gcc -o BekzhanTalgatOutput BekzhanTalgatOutput.c
+  325  ./BekzhanTalgatOutput
+  326  gcc -o BekzhanTalgatOutput BekzhanTalgatOutput.c
+  327  gcc -o BekzhanTalgatOutput BekzhanTalgatOutput.c
+  328  gcc -o BekzhanTalgatOutput BekzhanTalgatOutput.c
+  329  ./BekzhanTalgatOutput
+  330  gcc -o BekzhanTalgatOutput BekzhanTalgatOutput.c
+  331  ./BekzhanTalgatOutput
+  332  gcc -o BekzhanTalgatOutput BekzhanTalgatOutput.c
+  333  ./BekzhanTalgatOutput
+  334  gcc -o BekzhanTalgatOutput BekzhanTalgatOutput.c
+  335  ./BekzhanTalgatOutput
+  336  gcc -o BekzhanTalgatOutput BekzhanTalgatOutput.c
+  337  ./BekzhanTalgatOutput
+  338  gcc -o BekzhanTalgatOutput BekzhanTalgatOutput.c
+  339  ./BekzhanTalgatOutput
+  340  gcc -o BekzhanTalgatOutput BekzhanTalgatOutput.c
+  341  gcc -o BekzhanTalgatOutput BekzhanTalgatOutput.c
+  342  ./BekzhanTalgatOutput
+  343  ./BekzhanTalgatOutput
+  344  ./BekzhanTalgatOutput
+  345  ./BekzhanTalgatOutput
+  346  ./BekzhanTalgatOutput
+  347  gcc -o BekzhanTalgatOutput BekzhanTalgatOutput.c
+  348  gcc -o BekzhanTalgatOutput BekzhanTalgatOutput.c
+  349  ./BekzhanTalgatOutput
+  350  gcc -o BekzhanTalgatOutput BekzhanTalgatOutput.c
+  351  ./BekzhanTalgatOutput
+  352  gcc -o BekzhanTalgatOutput BekzhanTalgatOutput.c
+  353  ./BekzhanTalgatOutput
+  354  gcc -o BekzhanTalgatOutput BekzhanTalgatOutput.c
+  355  ./BekzhanTalgatOutput
+  356  gcc -o BekzhanTalgatOutput BekzhanTalgatOutput.c
+  357  ./BekzhanTalgatOutput
+  358  gcc -o BekzhanTalgatOutput BekzhanTalgatOutput.c
+  359  ./BekzhanTalgatOutput
+  360  gcc -o BekzhanTalgatOutput BekzhanTalgatOutput.c
+  361  ./BekzhanTalgatOutput
+  362  gcc -o BekzhanTalgatOutput BekzhanTalgatOutput.c
+  363  ./BekzhanTalgatOutput
+  364  gcc -o BekzhanTalgatOutput BekzhanTalgatOutput.c
+  365  gcc -o BekzhanTalgatOutput BekzhanTalgatOutput.c
+  366  ./BekzhanTalgatOutput
+  367  ./BekzhanTalgatOutput
+  368  ./BekzhanTalgatOutput
+  369  gcc -o BekzhanTalgatOutput BekzhanTalgatOutput.c
+  370  ./BekzhanTalgatOutput
+  371  gcc -o BekzhanTalgatOutput BekzhanTalgatOutput.c
+  372  ./BekzhanTalgatOutput
+  373  gcc -o BekzhanTalgatOutput BekzhanTalgatOutput.c
+  374  ./BekzhanTalgatOutput
+  375  gcc -o BekzhanTalgatOutput BekzhanTalgatOutput.c
+  376  ./BekzhanTalgatOutput
+  377  ./BekzhanTalgatOutput
+  378  ./BekzhanTalgatOutput
+  379  gcc -o BekzhanTalgatOutput BekzhanTalgatOutput.c
+  380  gcc -o BekzhanTalgatOutput BekzhanTalgatOutput.c
+  381  ./BekzhanTalgatOutput
+  382  gcc -o BekzhanTalgatOutput BekzhanTalgatOutput.c
+  383  ./BekzhanTalgatOutput
+  384  gcc -o BekzhanTalgatOutput BekzhanTalgatOutput.c
+  385  ./BekzhanTalgatOutput
+  386  gcc -o BekzhanTalgatOutput BekzhanTalgatOutput.c
+  387  ./BekzhanTalgatOutput
+  388  gcc -o BekzhanTalgatOutput BekzhanTalgatOutput.c
+  389  ./BekzhanTalgatOutput
+  390  gcc -o BekzhanTalgatOutput BekzhanTalgatOutput.c
+  391  ./BekzhanTalgatOutput
+  392  ./BekzhanTalgatOutput
+  393  ./BekzhanTalgatOutput
+  394  gcc -o BekzhanTalgatOutput BekzhanTalgatOutput.c
+  395  ./BekzhanTalgatOutput
+  396  cd /Users/Beka/Desktop/
+  397  ./assignment1 input1.txt
+  398  ./assignment1 input2.txt
+  399  ./assignment1 input3.txt
+  400  ./assignment1 input4.txt
+  401  ./assignment1 input5.txt
+  402  ./assignment1 input5.txt
+  403  ./assignment1 input6.txt
+  404  ./assignment1 input7.txt
+  405  ./assignment1 input8.txt
+  406  ./assignment1 input9.txt
+  407  ./assignment1 input10.txt
+  408  ./assignment1 input11.txt
+  409  ./assignment1 input21.txt
+  410  ./assignment1 input12.txt
+  411  ./assignment1 input13.txt
+  412  ./assignment1 input14.txt
+  413  ./assignment1 input15.txt
+  414  ./assignment1 input4.txt
+  415  gcc -o BekzhanTalgatOutput BekzhanTalgatOutput.c
+  416  gcc -o assignment1 assignment1.c
+  417  ./assignment1 input4.txt
+  418  gcc -o assignment1 assignment1.c
+  419  ./assignment1
+  420  ./assignment1
+  421  ./assignment1
+  422  cd /Users/Beka/Desktop/
+  423  javac kek.java
+  424  javac kek.java
+  425  javac kek.java
+  426  java kek
+  427  javac kek.java
+  428  javac kek.java
+  429  java kek
+  430  javac kek.java
+  431  java kek
+  432  java kek
+  433  javac kek.java
+  434  java kek
+  435  javac kek.java
+  436  java kek
+  437  javac kek.java
+  438  java kek
+  439  javac kek.java
+  440  java kek
+  441  javac kek.java
+  442  java kek
+  443  java kek
+  444  javac kek.java
+  445  java kek
+  446  javac kek.java
+  447  java kek
+  448  javac kek.java
+  449  java kek
+  450  javac kek.java
+  451  java kek
+  452  java kek
+  453  java kek
+  454  javac kek.java
+  455  java kek
+  456  java kek
+  457  java kek
+  458  javac kek.java
+  459  java kek
+  460  javac kek.java
+  461  java kek
+  462  javac kek.java
+  463  java kek
+  464  javac kek.java
+  465  javac kek.java
+  466  java kek
+  467  javac kek.java
+  468  javac kek.java
+  469  javac kek.java
+  470  java kek
+  471  javac kek.java
+  472  java kek
+  473  javac kek.java
+  474  java kek
+  475  java kek
+  476  java kek
+  477  javac kek.java
+  478  javac kek.java
+  479  java kek
+  480  java kek
+  481  java kek
+  482  javac kek.java
+  483  java kek
+  484  javac kek.java
+  485  java kek
+  486  java kek
+  487  javac kek.java
+  488  java kek
+  489  java kek
+  490  ls
+  491  cd Desktop/OS
+  492  mkdir ~/week1
+  493  mkdir /week1
+  494  mkdir week1
+  495  cd /..
+  496  ls
+  497  cd /..
+  498  ls
+  499  cd /.
+  500  ls
+  501  cd Desktop/OS
+  502  mkdir week1
+  503  ls
+  504  cd /
+  505  ls
+  506  cd usr/bin/
+  507  ls
+  508  ls -r | gcc
+  509  ls -r | exe
+  510  ls -r | job
+  511  ls -r
+  512  ls -r | gcc >> /Users/Beka/Desktop/OS/week1 list.txt
+  513  ls -r | gcc > /Users/Beka/Desktop/OS/week1 list.txt
+  514  lk
+  515  ln
+  516  cd /
+  517  cd /usr/bin
+  518  clean
+  519  cln
+  520  clear
+  521  ls /Users/Beka/Desktop/ list.txt
+  522  ls > /Users/Beka/Desktop/ list.txt
+  523  ls >> /Users/Beka/Desktop/ list.txt
+  524  ls >> /Users/Beka/Desktop/list.txt
+  525  cd /usr/bin
+  526  ls
+  527  ls | gcc
+  528  ls | ex
+  529  ls | exe
+  530  ls |ex
+  531  ls |gcc
+  532  ls |cur
+  533  ls | cur
+  534  ls -r | cur
+  535  ls | sort -r | cur
+  536  ls | sort -r | .18
+  537  ls | sort -r | 18
+  538  ls -r | grep jb
+  539  ls -r | grep jd
+  540  clear
+  541  ls -r | grep gcc
+  542  ls -r | grep gcc >> /Users/Beka/Desktop/OS/week1/list.txt
+  543  cd
+  544  ls /usr/bin -r
+  545  clear
+  546  ls /usr/bin sort -r
+  547  cd
+  548  ls
+  549  cd
+  550  ls
+  551  cd ..
+  552  cd..
+  553  ls
+  554  cd..
+  555  cd ..
+  556  ls
+  557  cd /usr
+  558  ls
+  559  cd bin
+  560  ls
+  561  ls -r
+  562  ls -r | grep gcc >> /Users/Beka/Desktop/OS/week1/ex1.txt
+  563  history >> /Users/Beka/Desktop/OS/week1/ex2.txt
