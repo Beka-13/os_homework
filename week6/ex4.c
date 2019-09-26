@@ -7,7 +7,7 @@
 
 static void handle(int sig){
 	fprintf("Signal %d\n", sig);
-	fprintf(stderr, "Interrupted\n");
+	fprintf(stderr, "Interruption\n");
   exit(2);
 }
 
@@ -21,5 +21,5 @@ int main(int argc, char *argv[]){
 	sigaction(SIGKILL, &sact, NULL);
 	sigaction(SIGSTOP, &sact, NULL);
 
-	while(1){}
+	while(1){sleep(1)}
 }
