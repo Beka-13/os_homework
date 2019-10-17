@@ -1,0 +1,2 @@
+For increased ratio between Hit and Miss in a sequence should be more repeated pages. For instance: 7 8 18 7  7 7 171 17 7 7 7 7 7 17 7 17 7
+In other case, when unique page a more, ratio between Hit and Miss decreases. For instance: 1 2 3 4 5 6 7 8 9 10 100 200 300 1000 999999
