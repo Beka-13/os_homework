@@ -1,0 +1,27 @@
+MacBook-Pro-Bekzan:week10 Beka$ cd ..
+MacBook-Pro-Bekzan:OS Beka$ cd week1
+MacBook-Pro-Bekzan:week1 Beka$ touch file.txt
+MacBook-Pro-Bekzan:week1 Beka$ cd ..
+MacBook-Pro-Bekzan:OS Beka$ cd week10/
+MacBook-Pro-Bekzan:week10 Beka$ link ../week1/file.txt -ex2.txt
+MacBook-Pro-Bekzan:week10 Beka$ ls -li
+total 32
+17689292 -rw-r--r--@ 2 Beka  staff    0 Oct 24 23:15 -ex2.txt
+17689176 -rw-r--r--@ 1 Beka  staff    3 Oct 24 23:14 _ex1.txt
+17689123 -rw-rw-rw-@ 2 Beka  staff    3 Oct 24 23:12 _ex1_1.txt
+17689123 -rw-rw-rw-@ 2 Beka  staff    3 Oct 24 23:12 _ex1_2.txt
+17689240 -rw-r--r--@ 1 Beka  staff  405 Oct 24 23:14 ex1.txt
+MacBook-Pro-Bekzan:week10 Beka$ link ../week1/file.txt _ex2.txt
+MacBook-Pro-Bekzan:week10 Beka$ ls -li
+total 32
+17689176 -rw-r--r--@ 1 Beka  staff    3 Oct 24 23:14 _ex1.txt
+17689123 -rw-rw-rw-@ 2 Beka  staff    3 Oct 24 23:12 _ex1_1.txt
+17689123 -rw-rw-rw-@ 2 Beka  staff    3 Oct 24 23:12 _ex1_2.txt
+17689292 -rw-r--r--@ 3 Beka  staff    0 Oct 24 23:15 _ex2.txt
+17689240 -rw-r--r--@ 1 Beka  staff  405 Oct 24 23:14 ex1.txt
+MacBook-Pro-Bekzan:week10 Beka$ find .. -inum 17689292
+../week1/file.txt
+../week10/_ex2.txt
+MacBook-Pro-Bekzan:week10 Beka$ find .. -inum 17689292 -exec rm {} \;
+MacBook-Pro-Bekzan:week10 Beka$ find .. -inum 17689292
+MacBook-Pro-Bekzan:week10 Beka$ 

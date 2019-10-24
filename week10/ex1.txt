@@ -1,0 +1,10 @@
+MacBook-Pro-Bekzan:week10 Beka$ touch ex1.txt
+MacBook-Pro-Bekzan:week10 Beka$ touch _ex1.txt
+MacBook-Pro-Bekzan:week10 Beka$ ln _ex1.txt _ex1_1.txt
+MacBook-Pro-Bekzan:week10 Beka$ ln _ex1.txt _ex1_2.txt
+MacBook-Pro-Bekzan:week10 Beka$ ls -i _ex1.txt
+17689123 _ex1.txt
+MacBook-Pro-Bekzan:week10 Beka$ ls -i _ex1_1.txt
+17689123 _ex1_1.txt
+MacBook-Pro-Bekzan:week10 Beka$ ls -i _ex1_2.txt
+17689123 _ex1_2.txt

@@ -1,0 +1,40 @@
+MacBook-Pro-Bekzan:week10 Beka$ touch _ex3.txt
+MacBook-Pro-Bekzan:week10 Beka$ ls -l
+total 40
+-rw-r--r--@ 1 Beka  staff     3 Oct 24 23:14 _ex1.txt
+-rw-rw-rw-@ 2 Beka  staff     3 Oct 24 23:12 _ex1_1.txt
+-rw-rw-rw-@ 2 Beka  staff     3 Oct 24 23:12 _ex1_2.txt
+-rw-r--r--@ 1 Beka  staff     0 Oct 24 23:21 _ex3.txt
+-rw-r--r--@ 1 Beka  staff   405 Oct 24 23:14 ex1.txt
+-rw-r--r--@ 1 Beka  staff  1297 Oct 24 23:19 ex2.txt
+MacBook-Pro-Bekzan:week10 Beka$ chmod +x _ex3.txt
+MacBook-Pro-Bekzan:week10 Beka$ ls -l
+total 40
+-rw-r--r--@ 1 Beka  staff     3 Oct 24 23:14 _ex1.txt
+-rw-rw-rw-@ 2 Beka  staff     3 Oct 24 23:12 _ex1_1.txt
+-rw-rw-rw-@ 2 Beka  staff     3 Oct 24 23:12 _ex1_2.txt
+-rwxr-xr-x@ 1 Beka  staff     0 Oct 24 23:21 _ex3.txt
+-rw-r--r--@ 1 Beka  staff   405 Oct 24 23:14 ex1.txt
+-rw-r--r--@ 1 Beka  staff  1297 Oct 24 23:19 ex2.txt
+MacBook-Pro-Bekzan:week10 Beka$ chmod uo=+rwx _ex3.txt
+MacBook-Pro-Bekzan:week10 Beka$ ls -l
+total 40
+-rw-r--r--@ 1 Beka  staff     3 Oct 24 23:14 _ex1.txt
+-rw-rw-rw-@ 2 Beka  staff     3 Oct 24 23:12 _ex1_1.txt
+-rw-rw-rw-@ 2 Beka  staff     3 Oct 24 23:12 _ex1_2.txt
+-rwxr-xrwx@ 1 Beka  staff     0 Oct 24 23:21 _ex3.txt
+-rw-r--r--@ 1 Beka  staff   405 Oct 24 23:14 ex1.txt
+-rw-r--r--@ 1 Beka  staff  1297 Oct 24 23:19 ex2.txt
+MacBook-Pro-Bekzan:week10 Beka$ chmod -R g=u _ex3.txt
+MacBook-Pro-Bekzan:week10 Beka$ ls -l
+total 40
+-rw-r--r--@ 1 Beka  staff     3 Oct 24 23:14 _ex1.txt
+-rw-rw-rw-@ 2 Beka  staff     3 Oct 24 23:12 _ex1_1.txt
+-rw-rw-rw-@ 2 Beka  staff     3 Oct 24 23:12 _ex1_2.txt
+-rwxrwxrwx@ 1 Beka  staff     0 Oct 24 23:21 _ex3.txt
+-rw-r--r--@ 1 Beka  staff   405 Oct 24 23:14 ex1.txt
+-rw-r--r--@ 1 Beka  staff  1297 Oct 24 23:19 ex2.txt
+
+660 = only Owner and Group can read and write
+775 = as 600 but also can execute
+777 = all can read, write, and execute
