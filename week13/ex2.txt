@@ -1,0 +1,26 @@
+Avoidance
+    The general idea behind deadlock avoidance is to prevent deadlocks from ever happening, by preventing at least one of the aforementioned conditions
+    
+    This requires more information about each process, AND tends to lead to low device utilization
+    
+    In some algorithms the scheduler only needs to know the maximum number of each resource that a process might potentially use. In more complex algorithms the scheduler can also take advantage of the schedule of exactly what resources may be needed in what order
+    
+    No roll-backof processes required
+    safe state is overly conservative estimate
+    
+Prevention
+    Deadlock prevention algorithms ensure that at least one of the necessary conditions does not hold true. However most prevention algorithms have poor resource utilization, and hence result in reduced throughputs
+    
+    Deadlock prevention algorithms are used in concurrent programming when multiple processes must acquire more than one shared resource
+    
+    Among all the methods, violating Circular wait is the only approach that can be implemented practically
+    
+    suitable where roll-back is impossible or expensive
+    inefficient due to preemtion or low resource utilization
+    
+
+Recovery
+    It is time and space consuming process. Real-time operating systems use it
+    
+    When deadlock detected, then our system stops working, and after the recovery of the deadlock, our system start working again
+    
